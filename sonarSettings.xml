@@ -1,0 +1,20 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://localhost:9000" />
+          <option name="name" value="localhost" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="admin" />
+        </SonarServerConfig>
+        <SonarServerConfig>
+          <option name="hostUrl" value="https://sonar.pracuj.pl/" />
+          <option name="name" value="sonar.pracuj.pl" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="patrycjusz.szydlo" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,20 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.pracuj.pl" />
+          <token>dfccdfcbdfcfdfcfdf9fdfc8df9edfcfdf99df92dfc9df98df9edf9edf9adfcfdf92dfcbdf9fdf9edfcedfccdfcbdf98dfc8dfcfdf98df9ddfc9df98dfc9df9bdf98df92dfcfdf9fdf92df9cdf9edf9b</token>
+          <option name="name" value="sonar.pracuj" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000/sonar" />
+          <token>df9edf9ddf92dfcbdfc9df98df98df9bdf9ddfcedfcedf93df9ddfcedfcedfcbdfcedfc9df9cdf9bdf93df9adf9adf99df98df9fdf9adf92df9fdfc9df9adf99df9bdf99df9cdfc9df9cdf9ddfcbdf9a</token>
+          <option name="name" value="localhost" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,2714 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="sonar.pracuj.pl">
+          <value>
+            <list>
+              <Resource>
+                <option name="key" value="GP.Addons.AdditionalStrefaFeatures" />
+                <option name="name" value="Addons_AdditionalStrefaFeatures" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Addons.AdditionalStrefaFeatures:GP.Addons.AdditionalStrefaFeatures:22E4166E-78AC-46EA-AA9B-CEFCF2D3CE35" />
+                <option name="name" value="Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Addons.AdditionalStrefaFeatures:GP.Addons.AdditionalStrefaFeatures:2A1AA6E7-4360-418A-9FE4-5174398FED51" />
+                <option name="name" value="Logic" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Addons.AdditionalStrefaFeatures:GP.Addons.AdditionalStrefaFeatures:B3038240-85A1-4C95-82A0-2E5F03A4D4F7" />
+                <option name="name" value="WebApi" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Addons.AdditionalStrefaFeatures:GP.Addons.AdditionalStrefaFeatures:6FF4DC3E-8055-4FD0-B844-ED69F8CF0711" />
+                <option name="name" value="WindowsService" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Aman" />
+                <option name="name" value="Aman" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Aman:GP.Aman:DC7B4D8C-F63A-4516-8199-35758A4D894D" />
+                <option name="name" value="GP.Aman" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Apollo" />
+                <option name="name" value="Apollo" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Apollo:GP.Apollo:4E0CD276-EA19-46F5-AD5D-83B33DB0B6BF" />
+                <option name="name" value="GP.Apollo.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet_ExtranetJobs_CategoryPartnerLogoPublisher" />
+                <option name="name" value="CategoryPartnerLogoPublisher" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet_ExtranetJobs_CategoryPartnerLogoPublisher:Extranet_ExtranetJobs_CategoryPartnerLogoPublisher:14818E02-C293-4C69-9D23-4279D8F57082" />
+                <option name="name" value="GP.Extranet2.Jobs.CategoryPartnerLogoPublisher.csproj" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Concierge" />
+                <option name="name" value="Concierge" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Concierge:Concierge:D7931101-F795-472C-810E-9710767CF575" />
+                <option name="name" value="GP.Concierge" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Concierge:Concierge:D43C7959-7665-4C47-B76B-FCFB37DD5ACE" />
+                <option name="name" value="GP.Concierge.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Daily" />
+                <option name="name" value="Daily" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Daily:Daily:6679E2EB-A205-473E-9540-073246E6C716" />
+                <option name="name" value="GP.Recommendation.Daily" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Daily:Daily:E427585A-0411-452B-9A97-CCD85CAC5E46" />
+                <option name="name" value="GP.Recommendation.Daily.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Daily:Daily:A8050A0A-3C2E-4DE0-8612-092AC6302577" />
+                <option name="name" value="GP.Recommendation.Daily.Hadoop" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Daily:Daily:3CFD9A0F-1671-46D3-8EB2-0CC8F8DD1DEE" />
+                <option name="name" value="GP.Recommendation.Daily.Hadoop.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Daily:Daily:4612FAA7-DBA5-4E5E-85DA-D216E9F8240D" />
+                <option name="name" value="GP.Recommendation.Daily.SenderService" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="DictionaryApi" />
+                <option name="name" value="DictionaryApi" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="DictionaryApi:DictionaryApi:98780867-5A7F-4979-ACCA-527A66B3768A" />
+                <option name="name" value="DictionaryApi" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="DictionaryApi:DictionaryApi:DD0C6A78-6B34-4C8F-B3BE-9C21216D9BFB" />
+                <option name="name" value="DictionaryApi.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet" />
+                <option name="name" value="Extranet" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:1BCF7076-BCA3-4DAA-82BC-2F7DE18EBAF4" />
+                <option name="name" value="Account" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:8D1DD4AA-586A-43C4-A701-2A0A36B65C9B" />
+                <option name="name" value="GP.Credits.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:6A21314E-4730-41E5-BDDD-B87B99407062" />
+                <option name="name" value="GP.Extranet2.Auth" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:979FBA11-573C-4514-92B9-BA36EE7A8D71" />
+                <option name="name" value="GP.Extranet2.BLL" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:1E1CA359-5E4D-4391-81AD-D27B6A4D5288" />
+                <option name="name" value="GP.Extranet2.CV.RESTService.Client" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:4DA02C9F-142C-43AC-AB8D-564E374B95B6" />
+                <option name="name" value="GP.Extranet2.DAL" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:B7506E78-050B-402C-B9FB-DCBA237C1699" />
+                <option name="name" value="GP.Extranet2.GlobalResources" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:B3532FB6-DC6B-4D7A-AC45-32ECC0B83BD7" />
+                <option name="name" value="GP.Extranet2.MVC.Ebok.CustomersSatisfaction" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:9499B8E0-5FED-4BDD-AFBA-EA1A2318826E" />
+                <option name="name" value="GP.Extranet2.MVC.Ebok.PhoneBillings" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:A0E912DC-0192-4A71-80D1-AA5005FC860D" />
+                <option name="name" value="GP.Extranet2.MVC.Ebok.Shell" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:E1BE31E8-4AAF-47D1-B7FB-6061BE980A8F" />
+                <option name="name" value="GP.Extranet2.MVC.Shell" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:3A07F856-BA0C-43DC-95C5-DD423D762810" />
+                <option name="name" value="GP.Extranet2.Managers" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:6DA1AF5D-CE07-497E-B6CB-5CBEB8EA3F60" />
+                <option name="name" value="GP.Extranet2.Models" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:88DC4DC1-469E-456E-AB27-351DE97766FB" />
+                <option name="name" value="GP.Offers" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:B38C74EE-77E6-4E65-A19C-CB1C9AD49D32" />
+                <option name="name" value="GP.Offers.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:1DB1B829-41D7-4DA8-8CFE-7B6244E7441F" />
+                <option name="name" value="GP.PasswordHasher" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:AB218241-66F6-4B35-A310-022450002BCA" />
+                <option name="name" value="GP.Starter.BackOffice.Models" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:AD6B3BBB-9E8F-4852-A797-3F9E88D0FCC9" />
+                <option name="name" value="GP.Starter.Models" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:4609D783-CE3E-49B4-8A1B-05690797858F" />
+                <option name="name" value="GP.Starter.Utils" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:3BEF4A1E-7A33-4984-BAAD-FFD6A47A3F00" />
+                <option name="name" value="K2.core.bll" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:5550543A-CDCC-4689-B8B2-2AE20CA595A4" />
+                <option name="name" value="K2.core.common" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:84A64402-3651-4CC5-B69D-E42F5D7F50CB" />
+                <option name="name" value="K2.core.dal" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:4331FF22-B245-47B5-83DA-A7C0E400C21C" />
+                <option name="name" value="K2.core.managers" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:70D3DD20-FAD7-424A-9E5A-B29B31B6F4A9" />
+                <option name="name" value="K2.core.services" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:EEC5C014-6A43-4033-8CA0-B5A11F6A8775" />
+                <option name="name" value="K2.core.uipl" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:DF276C7A-F542-49D9-996D-0A3E0865ABAD" />
+                <option name="name" value="K2.extranet.bll" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:1C58A84B-A0E3-4BC2-AC0E-2810C5F297BB" />
+                <option name="name" value="K2.extranet.common" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:86782702-86C4-49B9-8CB4-9E1CCD96F612" />
+                <option name="name" value="K2.extranet.dal" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:D6048ECF-84D0-482C-A016-801BFBFF7D7E" />
+                <option name="name" value="K2.extranet.managers" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:E22E007D-0DE8-454B-BFC3-931D28712EB7" />
+                <option name="name" value="K2.extranet.uipl" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:E476C6F1-4A05-4D22-BEB3-CF22655F385F" />
+                <option name="name" value="K2.extranet.web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:8AE9DD64-DB85-4190-88D6-5B475CA39D7A" />
+                <option name="name" value="ServiceInterfaces" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:054F4281-EEC2-45F6-A3B6-8B1F742EA4E1" />
+                <option name="name" value="Shell" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Extranet:Extranet:D07CE317-3428-4E05-812B-DA7ACF370CC0" />
+                <option name="name" value="ebok2.csproj" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Filestore" />
+                <option name="name" value="Filestore" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Filestore:GrupaPracuj.Filestore:A84D67BB-EB7C-4950-8FAE-6FC55A6D0528" />
+                <option name="name" value="GP.RestApi.Filestore" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Filestore:GrupaPracuj.Filestore:A81A297E-6F49-4128-B094-FB428635FD4C" />
+                <option name="name" value="GP.RestApi.Filestore.Common" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Filestore:GrupaPracuj.Filestore:BACBDA04-18C0-48C9-BF1C-37963586E41B" />
+                <option name="name" value="GP.RestApi.Filestore.Contract" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Filestore:GrupaPracuj.Filestore:DD395ACC-30EE-4F44-A738-93E144ED7766" />
+                <option name="name" value="GP.RestApi.Filestore.IntegrationTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Filestore:GrupaPracuj.Filestore:E4C5C004-E3CB-41E4-B391-9F8C664F5C48" />
+                <option name="name" value="GP.RestApi.Filestore.Jobs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Filestore:GrupaPracuj.Filestore:6FCB66A8-7D70-4F45-82E7-E209592FCF11" />
+                <option name="name" value="GP.RestApi.Filestore.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Filestore:GrupaPracuj.Filestore:4AD1376E-2E34-4367-8B74-98132E662AA0" />
+                <option name="name" value="GP.RestApi.FilestoreRepository" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Filestore:GrupaPracuj.Filestore:6A4FE10A-B080-422C-8485-0C223332C427" />
+                <option name="name" value="Gp.RestApi.Filestore.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Andhrimnir" />
+                <option name="name" value="GP.Andhrimnir" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Andhrimnir:GP.Andhrimnir:42B85181-7794-446F-A349-4B7B65F45BA7" />
+                <option name="name" value="GP.Andhrimnir" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Andhrimnir:GP.Andhrimnir:4D059368-0848-458E-8AA6-927C8C4F963E" />
+                <option name="name" value="GP.Andhrimnir.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Andhrimnir:GP.Andhrimnir:F93A4B73-C562-4544-8358-049A10BB0383" />
+                <option name="name" value="GP.Andhrimnir.AutomaticTransmitter" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Andhrimnir:GP.Andhrimnir:56F852E2-3F9B-40D6-96F3-6A050CE91F22" />
+                <option name="name" value="GP.Andhrimnir.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Andhrimnir:GP.Andhrimnir:BBF2CBFB-FB57-4F5F-8D54-AC30F986D621" />
+                <option name="name" value="GP.Andhrimnir.Core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Andhrimnir:GP.Andhrimnir:F180A04A-6FBD-4D12-8018-11CF6A8F6B96" />
+                <option name="name" value="GP.Andhrimnir.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications" />
+                <option name="name" value="GP.Applications" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:AFE624B2-6573-4DE6-A047-43B297DFC05E" />
+                <option name="name" value="GP.Applications" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:ACC4A31A-B314-457F-8938-FFC42069D708" />
+                <option name="name" value="GP.Applications.Analytics" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:12AE4872-DC02-4D78-8074-2C6B712CE7DC" />
+                <option name="name" value="GP.Applications.Anonymization.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:54886D39-8702-40E1-BC04-243664411565" />
+                <option name="name" value="GP.Applications.Anonymization.Consumer.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:6D63F2E5-52C3-4C94-B595-FF5ECC5AA517" />
+                <option name="name" value="GP.Applications.ApplicationSaga" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:5879EE0F-D8C9-42C6-B21D-CFCE1FCF72F6" />
+                <option name="name" value="GP.Applications.ApplicationSaga.Notifications.Configuration" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:13C371DB-0FE7-4C33-AEAC-E0F348429138" />
+                <option name="name" value="GP.Applications.ApplicationSaga.Notifications.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:DDCA6334-4A72-45C4-BD74-636BCEB24113" />
+                <option name="name" value="GP.Applications.ApplicationSaga.Notifications.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:DEF57F17-C7E0-4EE7-AF9B-4572571E171C" />
+                <option name="name" value="GP.Applications.ApplicationSaga.Notifications.Service.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:26928165-48EF-41AC-80B4-6EDE749EB979" />
+                <option name="name" value="GP.Applications.ApplicationSummary.Sender" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:F3D16062-94F7-4815-B629-F2C9871F68E5" />
+                <option name="name" value="GP.Applications.ApplicationSummary.Sender.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:DA89C4D0-F3C4-4FBC-BEAD-F78BC1908F3A" />
+                <option name="name" value="GP.Applications.ApplicationsStatus.Contract" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:533385AB-CFA6-4F1E-82E8-33259E9ED4A7" />
+                <option name="name" value="GP.Applications.Auth" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:A7926908-EB3A-4362-AE15-2E29F25D8805" />
+                <option name="name" value="GP.Applications.BackwardIntegration.Apply" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:DC2E60A6-2856-4C19-AD92-E7852A3A3377" />
+                <option name="name" value="GP.Applications.BackwardIntegration.MojPracuj" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:EFA488F9-B503-4D29-8EEC-63D33D7D4A7A" />
+                <option name="name" value="GP.Applications.Contract" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:E0427E9D-CDCC-4447-A2FC-D1EDD25A3C55" />
+                <option name="name" value="GP.Applications.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:409F598F-1944-4C19-9B07-A235B269ADD1" />
+                <option name="name" value="GP.Applications.ErrorsConsumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:C7CA2DAE-69F7-4FAC-9D3B-DB7E88ED67EA" />
+                <option name="name" value="GP.Applications.EventStore" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:D5D849E6-0AC7-48E0-967C-4D9D2800ABA8" />
+                <option name="name" value="GP.Applications.HistoricalApplications.Remover" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:466E02AB-B917-444A-9B55-503115E6ED30" />
+                <option name="name" value="GP.Applications.Integration.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:9616EACE-35C2-4BEB-9132-F1BDB6417CA8" />
+                <option name="name" value="GP.Applications.Projections.ApplicationStatuses" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:7BD15CFA-92CF-4710-8D93-721D366E8DC7" />
+                <option name="name" value="GP.Applications.Read.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:ADDF29A7-AE1F-4959-9776-6BBE5E376B7D" />
+                <option name="name" value="GP.Applications.Scheduler.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:D18393F1-2188-4DBF-B358-D27085A1ECB4" />
+                <option name="name" value="GP.Applications.Scheduler.Contract" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:BEBA99DE-4B9B-424C-961D-AEDAE4A5C140" />
+                <option name="name" value="GP.Applications.SpecFlow.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:C5D7F297-06C1-4125-A046-5480C42D965C" />
+                <option name="name" value="GP.Applications.StatusChangeConsumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:9745BE96-C796-41F9-83C0-99F07156A086" />
+                <option name="name" value="GP.Applications.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:8F16BBC5-A388-4253-B9EA-24BE71A4655D" />
+                <option name="name" value="GP.Applications.Tracker" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Applications:GrupaPracuj.GP.Applications:3331CA60-2E9A-4468-A9F2-14051F007D7C" />
+                <option name="name" value="Gp.Applications.Scheduler.Consumer.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpArata" />
+                <option name="name" value="GP.Arata" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Ariadna" />
+                <option name="name" value="GP.Ariadna" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Ariadna:GrupaPracuj.GP.Ariadna:D4C79324-5360-42CE-A284-7CEDCF2AAA1A" />
+                <option name="name" value="GP.Ariadna.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Ariadna:GrupaPracuj.GP.Ariadna:8C169EFC-6646-4AD2-8F1B-F5710D40E1A8" />
+                <option name="name" value="GP.Ariadna.Api.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Ariadna:GrupaPracuj.GP.Ariadna:B85CD0BE-4034-48A7-8B35-FBD4320C569E" />
+                <option name="name" value="GP.Ariadna.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas" />
+                <option name="name" value="GP.Arkansas" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:AED13CD5-3B66-49D8-9B4A-128FC58DA247" />
+                <option name="name" value="GP.Arkansas" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:CE1B883E-2E6D-42C2-92B7-62009AC676E2" />
+                <option name="name" value="GP.Arkansas.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:7A8A7E47-C308-4349-B7CD-DB59184BEC26" />
+                <option name="name" value="GP.Arkansas.Client" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:00697809-3BA3-4A88-BDA1-FB05CAB5CE34" />
+                <option name="name" value="GP.Arkansas.Client.ManualTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:3AA9C183-7254-472F-BDC2-8491AA34F68F" />
+                <option name="name" value="GP.Arkansas.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:C17AA3E2-27F5-46FF-A7A8-CAE5B00FE3FE" />
+                <option name="name" value="GP.Arkansas.Consumer.IntegrationTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:DA75B3B8-E1C5-4A04-BA36-C18086ADF48A" />
+                <option name="name" value="GP.Arkansas.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:A01514C3-7931-4B58-A6B9-EE1CA680730D" />
+                <option name="name" value="GP.Arkansas.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:97977E4E-ACE6-43C1-8795-2EC6AEAD3DFA" />
+                <option name="name" value="GP.Arkansas.EventProducer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:EC343D2F-35F8-4E87-9C96-D24D76ACB8EF" />
+                <option name="name" value="GP.Arkansas.ImageProcessor" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:46BD3C9A-97F7-42D8-A7C4-5030E7E94FD9" />
+                <option name="name" value="GP.Arkansas.ImageProcessor.ManualTest" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:63FB9639-E30E-4511-A85F-547C51FE87C7" />
+                <option name="name" value="GP.Arkansas.ImageProcessor.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Arkansas:GP.Arkansas:FE046C11-0E7B-4A52-B603-9C622A918C82" />
+                <option name="name" value="GP.Arkansas.Test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Auth" />
+                <option name="name" value="GP.Auth" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Auth:GP.Auth:D76D3E5F-53C4-4017-8593-C2B00922B922" />
+                <option name="name" value="GP.Auth" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Bilbo" />
+                <option name="name" value="GP.Bilbo" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Bilbo:GP.Bilbo:0D632B89-7836-4BEF-84F9-F13FFAF9886F" />
+                <option name="name" value="GP.Bilbo.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Bilbo:GP.Bilbo:4F40DB82-2B88-4DFF-ADB0-EBB21D6E6485" />
+                <option name="name" value="GP.Bilbo.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Bilbo:GP.Bilbo:CF448E12-994E-4ADE-9CAD-7BFB34586216" />
+                <option name="name" value="GP.Bilbo.Core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Bilbo:GP.Bilbo:2A11E1D5-88C2-46EC-8BA0-F9CE680055E0" />
+                <option name="name" value="GP.Bilbo.SmokeTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Bilbo:GP.Bilbo:8D4C9EE8-E3F7-44E2-9654-E53A7D7D92A6" />
+                <option name="name" value="GP.Bilbo.StatsManager" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Bilbo:GP.Bilbo:C745BE05-F1D0-4B01-A9E6-1DF4755679C3" />
+                <option name="name" value="GP.Bilbo.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Boromir" />
+                <option name="name" value="GP.Boromir" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Boromir:GP.Boromir:04934836-73C9-45FA-A5C4-47E1BD6BF5CC" />
+                <option name="name" value="GP.Boromir.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.BuforujacyBogdan" />
+                <option name="name" value="GP.BuforujacyBogdan" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.BuforujacyBogdan:GP.BuforujacyBogdan:7031B803-5A76-4C81-8623-59F104032712" />
+                <option name="name" value="GP.BuforujacyBogdan.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.BuforujacyBogdan:GP.BuforujacyBogdan:F14091AB-066B-41A7-AA03-AAC39EA787BE" />
+                <option name="name" value="GP.BuforujacyBogdan.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.BuforujacyBogdan:GP.BuforujacyBogdan:AB686548-CA49-4CCA-B15B-F957277EAD63" />
+                <option name="name" value="GP.BuforujacyBogdan.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.BuforujacyBogdan:GP.BuforujacyBogdan:9A87E9AB-096C-4EF2-9AEB-2FF3B22C607E" />
+                <option name="name" value="GP.BuforujacyBogdan.Core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.BuforujacyBogdan:GP.BuforujacyBogdan:8C1744D1-AC59-4E44-9EB4-B0F01770C3C1" />
+                <option name="name" value="GP.BuforujacyBogdan.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.BuforujacyBogdan:GP.BuforujacyBogdan:35BEB53A-E23F-4D00-8890-F642D7C71A65" />
+                <option name="name" value="GP.BuforujacyBogdan.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.CV.DocumentProcessor" />
+                <option name="name" value="GP.CV.DocumentProcessor" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.CV.DocumentProcessor:GP.CV.DocumentProcessor:A282CB7E-2436-4D6D-8A09-691DEEF49346" />
+                <option name="name" value="GP.CV.DocumentProcessor" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.CV.DocumentProcessor:GP.CV.DocumentProcessor:1E9B8DAF-0023-41B7-965E-8C574F2488CF" />
+                <option name="name" value="GP.CV.DocumentProcessor.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.CV.DocumentProcessor:GP.CV.DocumentProcessor:D6B358D6-951F-4687-9C2E-78EECE0733E6" />
+                <option name="name" value="GP.CV.DocumentProcessor.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Cepheid" />
+                <option name="name" value="GP.Cepheid" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Cepheid:GP.Cepheid:6E342C4C-5128-4654-80EF-07B25CCC3303" />
+                <option name="name" value="GP.Cepheid" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Cepheid:GP.Cepheid:1DAA9444-9CBA-4F24-90E1-9D79DEB80CD0" />
+                <option name="name" value="GP.Cepheid.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.CommonsBundle" />
+                <option name="name" value="GP.CommonsBundle" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect" />
+                <option name="name" value="GP.Connect" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:15DEBA88-E170-4E88-82CB-390822EB74FA" />
+                <option name="name" value="GP.Connect.Api.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:428F821A-E289-4428-80A9-F7D82544E072" />
+                <option name="name" value="GP.Connect.Api.Customer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:7A65C115-BC9C-42A0-8BD4-F25D0DA2A595" />
+                <option name="name" value="GP.Connect.Api.CustomerCare" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:B16575F8-39BB-43FF-AA1F-2540183514C5" />
+                <option name="name" value="GP.Connect.Api.Internal" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:91E617A4-A15E-477C-928D-A7A71A09053D" />
+                <option name="name" value="GP.Connect.Api.SignalR" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:5C93BF07-6E55-4B51-A9EF-05753791A9E5" />
+                <option name="name" value="GP.Connect.Api.Utils" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:47A25EE1-1321-4270-85E8-A3755CB380B9" />
+                <option name="name" value="GP.Connect.BackendTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:7FE0D7CD-0299-4BB2-9DBA-936C34C2B636" />
+                <option name="name" value="GP.Connect.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:6E7988E0-DF3D-454D-A47F-E10CEE40AE3A" />
+                <option name="name" value="GP.Connect.Domain" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:AFED1BA9-D970-4B66-A3C2-23935CD4FC54" />
+                <option name="name" value="GP.Connect.Infrastructure" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:3386F9E9-06E0-4553-9F84-DDB072ABFEBE" />
+                <option name="name" value="GP.Connect.SeleniumTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:BDA5DE87-38EA-40C4-A044-01B03C79A376" />
+                <option name="name" value="GP.Connect.Service.BusinessEventsProcessor" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:DFC956C3-CB61-42C0-AEC0-E4B3F661A5DA" />
+                <option name="name" value="GP.Connect.SmokeTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:542B36C8-462B-48F2-A9B1-ED584DC4534F" />
+                <option name="name" value="GP.Connect.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Connect:GP.Connect:1E2E46BA-FEE2-4BCD-8D05-8A3F37BB208A" />
+                <option name="name" value="GP.Connect.Utils" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PublicationJobs" />
+                <option name="name" value="GP.Credits.Service" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PublicationJobs:PublicationJobs:9B7360DB-9492-4E64-A13E-3D6F4B451C1B" />
+                <option name="name" value="GP.CreditService.Common.Interfaces" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PublicationJobs:PublicationJobs:31EBCE24-44C7-4F24-9D07-7F250D01BAD4" />
+                <option name="name" value="GP.Credits" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PublicationJobs:PublicationJobs:8D1DD4AA-586A-43C4-A701-2A0A36B65C9B" />
+                <option name="name" value="GP.Credits.Interfaces" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PublicationJobs:PublicationJobs:F8A5A9AD-F680-46F4-806F-653E7E51A030" />
+                <option name="name" value="GP.Credits.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PublicationJobs:PublicationJobs:CAE6DF8E-D37E-4530-BEB5-BBF54A797F92" />
+                <option name="name" value="GP.Credits.Service.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PublicationJobs:PublicationJobs:7DD8D78C-AC6D-4B33-BF13-722C4F47D3FC" />
+                <option name="name" value="GP.Credits.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PublicationJobs:PublicationJobs:957DB648-4483-49C2-BD5F-CB67348ABAB9" />
+                <option name="name" value="GP.Orders" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="PublicationJobs:PublicationJobs:38D7E705-03DF-4E8D-80E7-7EB8109480B6" />
+                <option name="name" value="GP.Orders.Interfaces" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Customers" />
+                <option name="name" value="GP.Customers" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Customers:GP.Customers:231BCB92-E0DB-4240-9A7C-4230E2012076" />
+                <option name="name" value="GP.Customers" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Customers:GP.Customers:D79F4358-2627-413F-8A71-BC8830A78FD2" />
+                <option name="name" value="GP.Customers.ApiService" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Customers:GP.Customers:2D4B2BE8-3744-4636-A6D6-C9B68A16BABD" />
+                <option name="name" value="GP.Customers.Infrastructure" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Customers:GP.Customers:59208FDF-1456-4463-AFBE-30D39F1E0A60" />
+                <option name="name" value="GP.Customers.Models" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.DiscountCodes" />
+                <option name="name" value="GP.DiscountCodes" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.DiscountCodes:GP.DiscountCodes:353742B7-0918-4B50-B229-C13628A81177" />
+                <option name="name" value="GP.Discount" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.DiscountCodes:GP.DiscountCodes:4B912674-B8E8-464F-A0CC-96481C49B592" />
+                <option name="name" value="GP.Discount.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.DiscountCodes:GP.DiscountCodes:7B5CFBFE-C73C-45AD-8D85-34F52E329868" />
+                <option name="name" value="GP.Discount.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.DiscountCodes:GP.DiscountCodes:866D5679-BD9F-4096-A984-28F4FD420C53" />
+                <option name="name" value="GP.Discount.WebAPI" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.DiscountCodes:GP.DiscountCodes:EC67642E-C299-44AE-B000-5E73BCAA4A79" />
+                <option name="name" value="GP.Discount.WebAPI.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Dodatkovir" />
+                <option name="name" value="GP.Dodatkovir" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Dodatkovir:GP.Dodatkovir:C1A583C6-4D1C-45E8-9300-C2B80719E20E" />
+                <option name="name" value="GP.Dodatkovir" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Dodatkovir:GP.Dodatkovir:6ABF9BC3-F960-4A0F-9AB0-13B149D696FD" />
+                <option name="name" value="GP.Dodatkovir.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Dodatkovir:GP.Dodatkovir:8B53CAFA-E3C0-45FF-85E1-FCCB392905D0" />
+                <option name="name" value="GP.Dodatkovir.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Dodatkovir:GP.Dodatkovir:E965067E-7235-4D58-874C-5C289B76199E" />
+                <option name="name" value="GP.Dodatkovir.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Dodatkovir:GP.Dodatkovir:2643F8BC-4B77-4B07-BB25-5DE3E4DAE97F" />
+                <option name="name" value="GP.Dodatkovir.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpEcommerce" />
+                <option name="name" value="GP.Ecommerce" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Eldhrimnir" />
+                <option name="name" value="GP.Eldhrimnir" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Eldhrimnir:GrupaPracuj.GP.Eldhrimnir:1AB65B80-9963-441C-A9B3-63D0FCCE51C0" />
+                <option name="name" value="GP.Eldhrimnir" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Eldhrimnir:GrupaPracuj.GP.Eldhrimnir:891BFDA6-928D-40FE-95CA-17E40973E06D" />
+                <option name="name" value="GP.Eldhrimnir.AutomaticTransmitter" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Eldhrimnir:GrupaPracuj.GP.Eldhrimnir:8E343C62-3CE6-42A4-99F1-E42EE0F5644D" />
+                <option name="name" value="GP.Eldhrimnir.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Eldhrimnir:GrupaPracuj.GP.Eldhrimnir:DBC98FFD-D105-4323-8CD8-76F645C3A0E9" />
+                <option name="name" value="GP.Eldhrimnir.OrderCalculator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Eldhrimnir:GrupaPracuj.GP.Eldhrimnir:EBFF44CB-E238-4F03-BCCD-D25D259E1394" />
+                <option name="name" value="GP.Eldhrimnir.SeriesConfigurationValidator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Eldhrimnir:GrupaPracuj.GP.Eldhrimnir:A258EEEC-AC27-4517-B4FF-5762043D255F" />
+                <option name="name" value="GP.Eldhrimnir.Tests.Spec" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Eldhrimnir:GrupaPracuj.GP.Eldhrimnir:1F5D9C4D-72A2-494A-8065-BD2952A5EB2E" />
+                <option name="name" value="GP.Eldhrimnir.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Eldhrimnir" />
+                <option name="name" value="GP.Eldhrimnir" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Eldhrimnir:GP.Eldhrimnir:1AB65B80-9963-441C-A9B3-63D0FCCE51C0" />
+                <option name="name" value="GP.Eldhrimnir" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Eldhrimnir:GP.Eldhrimnir:891BFDA6-928D-40FE-95CA-17E40973E06D" />
+                <option name="name" value="GP.Eldhrimnir.AutomaticTransmitter" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Eldhrimnir:GP.Eldhrimnir:8E343C62-3CE6-42A4-99F1-E42EE0F5644D" />
+                <option name="name" value="GP.Eldhrimnir.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Eldhrimnir:GP.Eldhrimnir:DBC98FFD-D105-4323-8CD8-76F645C3A0E9" />
+                <option name="name" value="GP.Eldhrimnir.OrderCalculator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Eldhrimnir:GP.Eldhrimnir:EBFF44CB-E238-4F03-BCCD-D25D259E1394" />
+                <option name="name" value="GP.Eldhrimnir.SeriesConfigurationValidator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Eldhrimnir:GP.Eldhrimnir:A258EEEC-AC27-4517-B4FF-5762043D255F" />
+                <option name="name" value="GP.Eldhrimnir.Tests.Spec" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Eldhrimnir:GP.Eldhrimnir:1F5D9C4D-72A2-494A-8065-BD2952A5EB2E" />
+                <option name="name" value="GP.Eldhrimnir.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpEldorado" />
+                <option name="name" value="GP.Eldorado" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpEldorado:GpEldorado:39336EDA-FF5B-45A7-A2EF-630AAACE2815" />
+                <option name="name" value="GP.Eldorado.Domain" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpEldorado:GpEldorado:0C54B5B0-5481-4556-8055-7DD5DE2A6E89" />
+                <option name="name" value="GP.Eldorado.E2ETests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpEldorado:GpEldorado:0426ED99-91E8-464E-8287-A04E80863FD7" />
+                <option name="name" value="GP.Eldorado.Infrastructure" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpEldorado:GpEldorado:2034B45F-EF44-40D4-B516-DDC756600A86" />
+                <option name="name" value="GP.Eldorado.SmokeTest" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpEldorado:GpEldorado:FF9D1FFF-5D77-44AA-8894-891A520FFFEB" />
+                <option name="name" value="GP.Eldorado.WebUI" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.FaaS.Sample" />
+                <option name="name" value="GP.FaaS.Sample" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.FaaS.Sample:GP.FaaS.Sample:D648EE09-9625-4332-8EFA-91976742EC58" />
+                <option name="name" value="Function4000" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.FaaS.Sample:GP.FaaS.Sample:8CA6A87D-F40A-4481-A146-D78649F3470F" />
+                <option name="name" value="UnitTestProject" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Fafniolec" />
+                <option name="name" value="GP.Fafniolec" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Fafniolec:GP.Fafniolec:753DD4E3-6DDA-4B24-83CC-D4CC22DE37A3" />
+                <option name="name" value="GP.Fafniolec" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Fafniolec:GP.Fafniolec:6B280146-E4D0-49A4-ACCE-D8BD1B421006" />
+                <option name="name" value="GP.Fafniolec.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Fafniolec:GP.Fafniolec:28C62CEE-16D3-4FD9-A0F8-EF0883143B6A" />
+                <option name="name" value="GP.Fafniolec.Core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Fafniolec:GP.Fafniolec:99F7AB6B-D5DE-4A0E-A6BF-8295E508C2C9" />
+                <option name="name" value="GP.Fafniolec.DatabaseMigration" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Fafniolec:GP.Fafniolec:1E7F2A32-AF26-4104-A505-FCBB79041413" />
+                <option name="name" value="GP.Fafniolec.Domain" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Fafniolec:GP.Fafniolec:CB8BF1E2-55A3-4C66-8781-5ADE9EC50983" />
+                <option name="name" value="GP.Fafniolec.IntegrationTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Fafniolec:GP.Fafniolec:F0B62B46-132B-4DA8-8C6C-974FC263D3B6" />
+                <option name="name" value="GP.Fafniolec.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Fafniolec:GP.Fafniolec:1FC8EA4B-1474-4B4C-9364-7258976A24C5" />
+                <option name="name" value="GP.Fafniolec.Worker" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpFeflun" />
+                <option name="name" value="GP.Feflun" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpFeflun:GpFeflun:E7511BBE-1C42-4818-B952-F3B021C8C16D" />
+                <option name="name" value="GP.Feflun.InxmailImporter" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpFeflun:GpFeflun:1AF07FDC-1022-4229-83E5-535F53882729" />
+                <option name="name" value="GP.Feflun.InxmailImporter.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Fluffy" />
+                <option name="name" value="GP.Fluffy" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Fluffy:GrupaPracuj.GP.Fluffy:F195B764-A8FB-4281-80EF-97EF1C37717C" />
+                <option name="name" value="GP.Fluffy.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Fluffy:GrupaPracuj.GP.Fluffy:4ED81E1D-64D7-41B8-AFD0-08DBBFE40B31" />
+                <option name="name" value="GP.Fluffy.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Fluffy:GrupaPracuj.GP.Fluffy:9973AF06-8C9B-437B-9882-DF35D9859A7C" />
+                <option name="name" value="GP.Fluffy.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Fluffy:GrupaPracuj.GP.Fluffy:7A59C08D-1A30-4824-A1EE-C3CEE55AED9F" />
+                <option name="name" value="GP.Fluffy.TokenCleaner" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="gp.forwardujacyfranciszek" />
+                <option name="name" value="GP.ForwardujacyFranciszek" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="gp.forwardujacyfranciszek:gp.forwardujacyfranciszek:070DAA03-91B8-4D53-B32E-0E598B8F26F8" />
+                <option name="name" value="GP.ForwardujacyFranciszek.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frodo" />
+                <option name="name" value="GP.Frodo" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frodo:GP.Frodo:4D574326-526B-4E65-A1DB-33A7492759EC" />
+                <option name="name" value="GP.Frodo.Core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frodo:GP.Frodo:1AF60E1D-FC43-48A6-A862-E9AFEFD44020" />
+                <option name="name" value="GP.Frodo.Migrator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frodo:GP.Frodo:0B2B580B-5364-4796-8D80-E5FAEA7E3781" />
+                <option name="name" value="GP.Frodo.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frodo:GP.Frodo:3BEA86C7-A3C7-41B6-8139-FB53CF7BF63D" />
+                <option name="name" value="GP.Frodo.Tester" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frodo:GP.Frodo:43545848-9E3C-4F55-B8DC-FECCDF06CAAD" />
+                <option name="name" value="GP.Frodo.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frub" />
+                <option name="name" value="GP.Frub" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frub:GP.Frub:9B6F6E42-06B0-4CFD-8B41-DF11A4A97815" />
+                <option name="name" value="GP.Frub" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frub:GP.Frub:3B31F9C9-E7E5-4BB4-B96C-76E1658AD592" />
+                <option name="name" value="GP.Frub.DatabaseMigrations" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Frub:GP.Frub:BD3CC0BA-BD35-4C6F-8EE4-8FB5F0A8898E" />
+                <option name="name" value="GP.Frub.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gandalf" />
+                <option name="name" value="GP.Gandalf" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gandalf:GP.Gandalf:0948CDE3-2B4E-40EE-90FF-56AC76314F0C" />
+                <option name="name" value="GP.Gandalf.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gandalf:GP.Gandalf:0573BF68-1639-4550-BDF2-D269AB978525" />
+                <option name="name" value="GP.Gandalf.Context" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gandalf:GP.Gandalf:CFB80C40-E392-4F77-86C1-44143F4C58B1" />
+                <option name="name" value="GP.Gandalf.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gandalf:GP.Gandalf:452173CE-F608-4751-A0DB-EB340445E4F2" />
+                <option name="name" value="GP.Gandalf.Logic" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gandalf:GP.Gandalf:D7927449-B11A-499A-947A-A3615605F192" />
+                <option name="name" value="GP.Gandalf.Logic.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gandalf:GP.Gandalf:29158481-0D29-4A50-A89A-48D17D41C955" />
+                <option name="name" value="GP.Gandalf.SmokeTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gandalf:GP.Gandalf:1CFE57FC-45C3-47CC-8A71-A06D7A507EB5" />
+                <option name="name" value="GP.Gandalf.UI" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Garmr" />
+                <option name="name" value="GP.Garmr" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Garmr:GP.Garmr:49BED9BE-6125-4CD4-B48B-CEC2961F942F" />
+                <option name="name" value="GP.Garmr.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Garmr:GP.Garmr:AE9C50E0-9397-4A7B-BE44-1DA7BB73D2B7" />
+                <option name="name" value="GP.Garmr.Api.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gimli" />
+                <option name="name" value="GP.Gimli" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gimli:GP.Gimli:47D8090D-D78F-4287-A573-32DD38544A62" />
+                <option name="name" value="GP.Gimli.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gleipnir" />
+                <option name="name" value="GP.Gleipnir" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gleipnir:GP.Gleipnir:99C2F6E3-D339-4644-98E7-D25E91979ECD" />
+                <option name="name" value="GP.Gleipnir" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gleipnir:GP.Gleipnir:3F0EEBF9-02B8-4194-BA61-B4B1AA0F3DEB" />
+                <option name="name" value="GP.Gleipnir.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gleipnir:GP.Gleipnir:83653399-9E3D-4932-8EBD-FB3C28BB34EA" />
+                <option name="name" value="GP.Gleipnir.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gleipnir:GP.Gleipnir:C25C3185-DEC1-48BE-A72D-30F12CEDC1DD" />
+                <option name="name" value="GP.Gleipnir.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gleipnir:GP.Gleipnir:5C20A6B7-62E3-4660-AFE5-6B16E4A46AF7" />
+                <option name="name" value="GP.Gleipnir.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gutenberg" />
+                <option name="name" value="GP.Gutenberg" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gutenberg:GP.Gutenberg:A282CB7E-2436-4D6D-8A09-691DEEF49346" />
+                <option name="name" value="GP.Gutenberg" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gutenberg:GP.Gutenberg:1E9B8DAF-0023-41B7-965E-8C574F2488CF" />
+                <option name="name" value="GP.Gutenberg.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Gutenberg:GP.Gutenberg:D6B358D6-951F-4687-9C2E-78EECE0733E6" />
+                <option name="name" value="GP.Gutenberg.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Hays_GpHaysToLmcVacancySync" />
+                <option name="name" value="GP.HaysToLmcVacancySync" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Hays_GpHaysToLmcVacancySync:Hays_GpHaysToLmcVacancySync:FCB81387-9115-4FA6-8F97-FAA4150D8CAD" />
+                <option name="name" value="GP.HaysToLmcVacancySync.csproj" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Hays_GpHaysToLmcVacancySync:Hays_GpHaysToLmcVacancySync:2DE13F87-704F-4F64-8496-4B0700EAB12F" />
+                <option name="name" value="GP.Importer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpHefalump" />
+                <option name="name" value="GP.Hefalump" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpHefalump:GpHefalump:07C842D1-43F4-4A5F-95FE-6C6C6CE5B269" />
+                <option name="name" value="GP.Hefalump.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpHefalump:GpHefalump:BA5399C3-E143-4427-B62B-1CEA3F49CBA9" />
+                <option name="name" value="GP.Hefalump.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpHefalump:GpHefalump:DBE991A5-C2DE-4E44-AC65-2ACB509E823A" />
+                <option name="name" value="GP.Hefalump.Service.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heidrun" />
+                <option name="name" value="GP.Heidrun" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heidrun:GP.Heidrun:694AF8C1-67A7-4E53-A56F-C62F42CAA814" />
+                <option name="name" value="GP.Heidrun" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heidrun:GP.Heidrun:957C2B48-4E83-4DE6-B45D-EAE3B5562D64" />
+                <option name="name" value="GP.Heidrun.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heidrun:GP.Heidrun:99B25453-62B3-4F9F-BCEA-A60DBAEC4FA9" />
+                <option name="name" value="GP.Heidrun.Contracts.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heidrun:GP.Heidrun:D1AABF6F-0C9A-453A-B760-5A542E2D5283" />
+                <option name="name" value="GP.Heidrun.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heidrun:GP.Heidrun:B098AFC6-494C-4B5F-942E-89F4432C682B" />
+                <option name="name" value="GP.Heidrun.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Heimdallr" />
+                <option name="name" value="GP.Heimdallr" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Heimdallr:GrupaPracuj.Heimdallr:34186AFC-3C8B-441B-A63D-9E882F5B6555" />
+                <option name="name" value="GP.Heimdallr.BlockadeJobs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Heimdallr:GrupaPracuj.Heimdallr:88628FE3-9EFC-4A60-AB9B-2470325BC70E" />
+                <option name="name" value="GP.Heimdallr.Dev.Test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Heimdallr:GrupaPracuj.Heimdallr:D8CB7CD1-628C-4451-9285-446198F6ACAD" />
+                <option name="name" value="GP.Heimdallr.IdentityServer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Heimdallr:GrupaPracuj.Heimdallr:BB307418-A872-4EBF-BCE3-9D7A05C61D35" />
+                <option name="name" value="GP.Heimdallr.IdentityServer.DataAccess" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Heimdallr:GrupaPracuj.Heimdallr:75447AEF-0758-40ED-8547-610826892516" />
+                <option name="name" value="GP.Heimdallr.Jobs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Heimdallr:GrupaPracuj.Heimdallr:5025D863-C669-443D-B0AB-87871E11BA6B" />
+                <option name="name" value="GP.Heimdallr.Local" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Heimdallr:GrupaPracuj.Heimdallr:2E824DD1-EBBF-4F0B-93D6-9BF50BC2DE3F" />
+                <option name="name" value="GP.Heimdallr.SmokeTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heimdallr.Samples" />
+                <option name="name" value="GP.Heimdallr.Samples" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heimdallr.Samples:GP.Heimdallr.Samples:DB9B1423-CDA8-4F54-9C46-63DF5366D5EF" />
+                <option name="name" value="GP.Heimdallr.ProtectedResource" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heimdallr.Samples:GP.Heimdallr.Samples:24FDE94C-BF7A-4C75-80DF-03ED16AE1CC7" />
+                <option name="name" value="GP.Heimdallr.Samples" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Heimdallr.Samples:GP.Heimdallr.Samples:0D5529CA-D90F-4D1D-9C1F-FF9C1526E501" />
+                <option name="name" value="GP.Heimdallr.Samples.Test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Helfer.Api" />
+                <option name="name" value="GP.Helfer.Api" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Helfer.Api:GP.Helfer.Api:F4182827-0D65-4B7F-8B01-D2113831F189" />
+                <option name="name" value="GP.Helfer.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Helfer.Api:GP.Helfer.Api:ECCF0079-8C2E-4AA1-ADEE-24C5B11D9EC7" />
+                <option name="name" value="GP.Helfer.Api.DatabaseTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Helfer.Api:GP.Helfer.Api:A84B6B96-7C04-4703-A935-B12BF6A194C9" />
+                <option name="name" value="GP.Helfer.Api.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Helfer.Web" />
+                <option name="name" value="GP.Helfer.Web" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpHub" />
+                <option name="name" value="GP.Hub" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hub.Gateway" />
+                <option name="name" value="GP.Hub.Gateway" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hub.Gateway:GP.Hub.Gateway:9A19103F-16F7-4668-BE54-9A1E7A4F7556" />
+                <option name="name" value="GP.Hub.Gateway" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane" />
+                <option name="name" value="GP.Hurricane" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:E17924EE-5C22-4666-B763-8DE89789DB35" />
+                <option name="name" value="GP.Hurricane.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:3526E13A-C28F-499D-AF3F-B271FD38717C" />
+                <option name="name" value="GP.Hurricane.Applications" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:D0A6670C-DBB2-4F00-AA14-5BFE4440B510" />
+                <option name="name" value="GP.Hurricane.ApplicationsConsumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:191A91B4-175B-4BA5-B6DD-380B4493A916" />
+                <option name="name" value="GP.Hurricane.BusService" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:C5AD2AC0-EB50-48A5-B908-A1F04809C76F" />
+                <option name="name" value="GP.Hurricane.Common" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:C7F876D8-CDF5-4979-A0E2-9B91954BB8FF" />
+                <option name="name" value="GP.Hurricane.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:072392E4-82A1-4014-83CC-6D13E81FF67A" />
+                <option name="name" value="GP.Hurricane.NotificationCommands" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:5B667A4B-58AC-4B3A-A12F-84EB14F366D2" />
+                <option name="name" value="GP.Hurricane.NotificationCommandsGenerator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:B6EC9AB7-7E21-4CFC-B673-D0A6CE3BA2B0" />
+                <option name="name" value="GP.Hurricane.NotificationSchedulerConsumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:448FB6F3-F992-42B7-9283-ED4F924ABF46" />
+                <option name="name" value="GP.Hurricane.NotificationSchedules" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:1DB5E568-220F-4D2B-A6BD-72C79E3ACC74" />
+                <option name="name" value="GP.Hurricane.NotificationsSettings" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:05FFB9E0-A365-4B98-8E9D-4536A83E1843" />
+                <option name="name" value="GP.Hurricane.Offers" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:03D63FED-A1A4-490B-8CB7-24C34B1F3D62" />
+                <option name="name" value="GP.Hurricane.OffersConsumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:688293DF-1695-4057-B229-F23D2BE89FC4" />
+                <option name="name" value="GP.Hurricane.Repository" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Hurricane:GP.Hurricane:023EF391-A35B-463D-9544-685CD1DAF9DC" />
+                <option name="name" value="GP.Hurricane.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Idawall" />
+                <option name="name" value="GP.Idawall" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Idawall:GP.Idawall:C45203C3-9F82-473F-B69B-35CBD4C6DBFD" />
+                <option name="name" value="GP.Idawall.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Idawall:GP.Idawall:AB6FEFCF-8326-4CBA-87C5-FD03B6B6BB63" />
+                <option name="name" value="GP.Idawall.Worker" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpJerry" />
+                <option name="name" value="GP.Jerry" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpJerry:GpJerry:0278247E-5CCF-4888-B406-46999A5EE60A" />
+                <option name="name" value="GP.Jerry" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.JobOffers" />
+                <option name="name" value="GP.JobOffers" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.JobOffers:GrupaPracuj.GP.JobOffers:363D53DB-EFE1-403C-A543-D0BA636E8BEE" />
+                <option name="name" value="GP.JobOffers.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.JobOffers:GrupaPracuj.GP.JobOffers:9FFAA1EA-A809-4CC5-BD39-E46A051D10FE" />
+                <option name="name" value="GP.JobOffers.CallApiTestApp" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.JobOffers:GrupaPracuj.GP.JobOffers:33122FC6-F390-4A6B-AB2D-C2408F456C0D" />
+                <option name="name" value="GP.JobOffers.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.JobOffers:GrupaPracuj.GP.JobOffers:EDD6F727-EC12-4977-9E63-BEB838188513" />
+                <option name="name" value="GP.JobOffers.DataAccess" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.JobOffers:GrupaPracuj.GP.JobOffers:3BC52A3D-81BE-42DC-8CB4-E89933891E1D" />
+                <option name="name" value="GP.JobOffers.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.JohnDeere" />
+                <option name="name" value="GP.JohnDeere" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.JohnDeere:GP.JohnDeere:CE32570E-EC30-4A04-8EF3-FB80CB84515E" />
+                <option name="name" value="GP.JohnDeere" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.JohnDeere:GP.JohnDeere:97B96A55-1A97-4B39-BEDB-F3DE4C38C91D" />
+                <option name="name" value="GP.JohnDeere.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.JohnDeere:GP.JohnDeere:E6DF8F1E-07B1-42DB-B737-DD380AF14076" />
+                <option name="name" value="GP.JohnDeere.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Jord" />
+                <option name="name" value="GP.Jord" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Jord:GP.Jord:5DE07727-750D-4C0B-92B9-CDE2AE820A6E" />
+                <option name="name" value="GP.Jord" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Jord:GP.Jord:62D24F9F-65EC-4D5E-AE10-3E01BC7E95D9" />
+                <option name="name" value="GP.Jord.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Jord:GP.Jord:7E1532E3-BAEB-4919-8351-9543C0007535" />
+                <option name="name" value="GP.Jord.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Jord:GP.Jord:D842453B-AF3F-45E2-87F4-130DD3CB379C" />
+                <option name="name" value="GP.Jord.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Jormungandr" />
+                <option name="name" value="GP.Jormungandr" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Jormungandr:GP.Jormungandr:25708FFC-9DD8-4B52-A54F-8A7357258198" />
+                <option name="name" value="GP.Offers.OfferHTMLGenerator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Jormungandr:GP.Jormungandr:DCCEB9E1-03AC-436D-BF0A-9613152AF3CF" />
+                <option name="name" value="GP.Offers.OfferHTMLGenerator.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:beta" />
+                <option name="name" value="GP.Juno beta" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:GP.Juno:C9EA1A84-E946-4C6C-8C77-D74FE0F67F79:beta" />
+                <option name="name" value="GP.Juno beta" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:GP.Juno:EB587356-E7EE-4563-A8CC-C82A03A40977:beta" />
+                <option name="name" value="GP.Juno.Discovery beta" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:GP.Juno:6D12E36E-AF5D-430F-A2A9-C82EDF1A07EB:beta" />
+                <option name="name" value="GP.Juno.EventStream beta" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:GP.Juno:9198ED9E-EE44-4113-804E-F37EAA233048:beta" />
+                <option name="name" value="GP.Juno.EventStream.Saga beta" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:GP.Juno:DDA2CCC3-39FF-4081-B1B1-2777AA5124D9:beta" />
+                <option name="name" value="GP.Juno.Monitoring beta" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:GP.Juno:4F60FD9D-3253-464E-AA75-88D72F3D6B24:beta" />
+                <option name="name" value="GP.Juno.Tests beta" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:GP.Juno:64AA84F1-AD07-4307-87D3-61DCD726DAD6:beta" />
+                <option name="name" value="GP.Juno.Web.AspNetCore beta" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:GP.Juno:36DDCB94-BD66-47BD-B6E0-7448BE665EC5:beta" />
+                <option name="name" value="GP.Juno.Web.WebApi beta" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Juno:GP.Juno:98B2C675-6DD2-4473-AA19-2B9BAD5F4DD8:beta" />
+                <option name="name" value="Gp.Juno.HttpClient beta" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Kvasir" />
+                <option name="name" value="GP.Kvasir" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Kvasir:GP.Kvasir:67DE5E51-9C6A-4498-9BC3-FD4C42D80CC1" />
+                <option name="name" value="GP.Kvasir" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Kvasir:GP.Kvasir:DDB842D8-21F2-46FB-A9A5-36F3104B0AE6" />
+                <option name="name" value="GP.Kvasir.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Kvasir:GP.Kvasir:204FB471-9302-42B0-8ED5-438E933B47AD" />
+                <option name="name" value="GP.Kvasir.Core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Kvasir:GP.Kvasir:CD451B5A-3C19-409E-AB5F-0616C6CA1046" />
+                <option name="name" value="GP.Kvasir.Core.Tests.BDD" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Kvasir:GP.Kvasir:84A4182F-7BA7-4F97-A911-8F98124876E3" />
+                <option name="name" value="GP.Kvasir.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Kvasir:GP.Kvasir:DAE01A48-4E67-4166-89E5-BA26D674FF6D" />
+                <option name="name" value="GP.Kvasir.RefreshOldPracujDB" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Kvasir:GP.Kvasir:7A8AD211-74D0-42AD-919F-8106C0C5CD2B" />
+                <option name="name" value="GP.Kvasir.RefreshOldPracujDB.Core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Kvasir:GP.Kvasir:AF813E06-4CCA-4891-A716-F31F6F969ED0" />
+                <option name="name" value="GP.Kvasir.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Layouts.Brisingamen" />
+                <option name="name" value="GP.Layouts.Brisingamen" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Layouts.Brisingamen:GP.Layouts.Brisingamen:9BBF334F-5078-447B-B593-11D119458EE1" />
+                <option name="name" value="GP.Layouts.Brisingamen" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Layouts.Brisingamen:GP.Layouts.Brisingamen:743ED4A4-5B45-4E64-8A14-7BF8AEBAB3A2" />
+                <option name="name" value="GP.Layouts.Brisingamen.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Legolas" />
+                <option name="name" value="GP.Legolas" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Legolas:GP.Legolas:04934836-73C9-45FA-A5C4-47E1BD6BF5CC" />
+                <option name="name" value="GP.Legolas.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Legolas:GP.Legolas:B1DD39C6-8595-46F6-9C5C-08DEBF0C8CAB" />
+                <option name="name" value="GP.Legolas.Enpoints.Generator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Leupold" />
+                <option name="name" value="GP.Leupold" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Leupold:GP.Leupold:5ACD87A7-BB70-4D29-B236-86E219DC4A9A" />
+                <option name="name" value="GP.Leupold.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Leupold:GP.Leupold:AB978749-CFFE-40BE-83BC-C105FB762307" />
+                <option name="name" value="GP.Leupold.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Leupold:GP.Leupold:693CBB0E-A54C-4BB3-A996-8480573FE3E3" />
+                <option name="name" value="GP.Leupold.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Leupold:GP.Leupold:314984FB-9DDF-4345-96FC-483BCC91A609" />
+                <option name="name" value="GP.Leupold.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Leupold:GP.Leupold:CF45BEED-B60A-4E43-8AEC-759DB8BC9650" />
+                <option name="name" value="GP.Leupold.Utilities" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Hays_GpLmcToHaysCandidateSync" />
+                <option name="name" value="GP.LmcToHaysCandidateSync" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Hays_GpLmcToHaysCandidateSync:Hays_GpLmcToHaysCandidateSync:2DE13F87-704F-4F64-8496-4B0700EAB12F" />
+                <option name="name" value="GP.Importer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="Hays_GpLmcToHaysCandidateSync:Hays_GpLmcToHaysCandidateSync:B7B0D03A-1472-4876-B7D2-BE4ECE34F4AE" />
+                <option name="name" value="GP.LmcToHaysCandidateSync.csproj" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Louisiana" />
+                <option name="name" value="GP.Louisiana" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Louisiana:GP.Louisiana:9B425FDA-07D6-4C70-B3C3-459F95E15FE0" />
+                <option name="name" value="GP.Louisiana" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Louisiana:GP.Louisiana:864D6FCF-A944-40C5-B290-8145BB37F96B" />
+                <option name="name" value="GP.Louisiana.Views" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Mammon" />
+                <option name="name" value="GP.Mammon" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Mammon:GrupaPracuj.Mammon:3E5A2A4F-73BD-423A-821C-F485262DBEA8" />
+                <option name="name" value="GP.Mammon.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Mammon:GrupaPracuj.Mammon:91F458CC-A0A2-41B3-8A7A-2C17E86E93D7" />
+                <option name="name" value="GP.Mammon.Jobs" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.Mammon:GrupaPracuj.Mammon:A23CE796-ED98-4951-B121-FB611F26DA4A" />
+                <option name="name" value="GP.Mammon.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Massachusetts" />
+                <option name="name" value="GP.Massachusetts" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Massachusetts:GP.Massachusetts:CE88F9DF-5D64-4B9D-B090-328F81E32042" />
+                <option name="name" value="GP.Massachusetts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Massachusetts:GP.Massachusetts:5C82FB24-2176-4E23-8B15-7699076C7EA7" />
+                <option name="name" value="GP.Massachusetts.IntegrationTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midas" />
+                <option name="name" value="GP.Midas" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midas:GP.Midas:FD4F8175-CECF-4F32-9AB6-513CA796C635" />
+                <option name="name" value="GP.Midas.API" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midas:GP.Midas:7F8CEE15-897A-4404-AAE2-E0540AFEB696" />
+                <option name="name" value="GP.Midas.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midas:GP.Midas:A8A3328A-CEE4-4616-BDC9-2ACF5209B105" />
+                <option name="name" value="GP.Midas.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midas:GP.Midas:5C0563FE-CF3E-46DD-A05B-C66177C4F58A" />
+                <option name="name" value="GP.Midas.Core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midas:GP.Midas:1D3A5F0D-50B0-4FEC-81A9-2C5A6F53BB9C" />
+                <option name="name" value="GP.Midas.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midgard" />
+                <option name="name" value="GP.Midgard" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midgard:GP.Midgard:500D2976-7004-447C-87E4-6379E58545BB" />
+                <option name="name" value="GP.Midgard" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midgard:GP.Midgard:526A60BA-EAC9-4CB2-9510-6C55B8FF5F90" />
+                <option name="name" value="GP.Midgard.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midgard:GP.Midgard:6165C6DB-5531-4060-8460-55F94330D466" />
+                <option name="name" value="GP.Midgard.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midgard:GP.Midgard:5404B87C-327E-490D-A0D2-B79CA0809988" />
+                <option name="name" value="GP.Midgard.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Midgard:GP.Midgard:C64D3A75-DCDD-45F1-AAAB-BBF129A3126E" />
+                <option name="name" value="GP.Midgard.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GPMissouri" />
+                <option name="name" value="GP.Missouri" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpMissouri" />
+                <option name="name" value="GP.Missouri" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Moon" />
+                <option name="name" value="GP.Moon" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Moon:GP.Moon:7450EA99-6A0A-494D-8B72-D1E017F9CA91" />
+                <option name="name" value="GP.Moon" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Moon:GP.Moon:6D78C41F-55D1-4B25-8DC7-10E0125A8A53" />
+                <option name="name" value="GP.Moon.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpNG2Components" />
+                <option name="name" value="GP.NG2Components" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpNewMexico" />
+                <option name="name" value="GP.NewMexico" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.NewMexico.Automaticos.Testos" />
+                <option name="name" value="GP.NewMexico.Automaticos.Testos" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.NewMexico.Automaticos.Testos:GP.NewMexico.Automaticos.Testos:9D71E60E-9CA3-4995-91B6-72E5EB43FF53" />
+                <option name="name" value="GP.NewMexico.Automaticos.Testos" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.NewMexico.Automaticos.Testos:GP.NewMexico.Automaticos.Testos:4F5AE856-9707-44FD-9E80-460879D88089" />
+                <option name="name" value="GP.NewMexico.Automaticos.Testos.Views" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpOffersApi" />
+                <option name="name" value="GP.Offers.Api" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpOffersApi:GpOffersApi:02B0360E-2A9E-44AE-9794-04D8B0D95D89" />
+                <option name="name" value="GP.Offers" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpOffersApi:GpOffersApi:9F653C33-2D2D-431A-B25F-0EAD90B7045D" />
+                <option name="name" value="GP.Offers.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpOffersApi:GpOffersApi:26AE570F-6463-403F-98B9-C0DE02FF2851" />
+                <option name="name" value="GP.Offers.Api.Infrastructure" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpOffersApi:GpOffersApi:5B24BC75-C743-4A45-A2E0-755C26C6169C" />
+                <option name="name" value="GP.Offers.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontDtp" />
+                <option name="name" value="GP.Offers.FrontDtp" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontDtp:GP.Offers.FrontDtp:1888F146-1D35-4153-99BF-EC203A3DCBE4" />
+                <option name="name" value="GP.Offers.FrontDtp.FakeConsumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontDtp:GP.Offers.FrontDtp:D9B78301-55F9-4A13-8D94-64A4AE346F0E" />
+                <option name="name" value="GP.Offers.FrontDtp.FakeProducer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontDtp:GP.Offers.FrontDtp:626B6FC4-2B14-43F1-8847-7A0E3C11014B" />
+                <option name="name" value="GP.Offers.FrontDtp.InitialFeeder" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontDtp:GP.Offers.FrontDtp:5C925334-E59A-4A8D-8296-5152AE578E39" />
+                <option name="name" value="GP.Offers.FrontDtp.InitialFeeder.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontDtp:GP.Offers.FrontDtp:74689F41-5DA9-4DD6-9ECD-D8BBE2CEDAC8" />
+                <option name="name" value="GP.Offers.FrontDtp.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontDtp:GP.Offers.FrontDtp:A2F97CCA-E18E-413F-AFC1-B5ED1ABF87AE" />
+                <option name="name" value="GP.Offers.FrontDtp.Service.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontPrinter" />
+                <option name="name" value="GP.Offers.FrontPrinter" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontPrinter:GP.Offers.FrontPrinter:ED7A6265-CD10-404A-93FC-4FE5B9FF4195" />
+                <option name="name" value="GP.Offers.FrontPrinter.FakeProducer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontPrinter:GP.Offers.FrontPrinter:73B9C720-AEC6-4706-8BB1-971AF5A9D292" />
+                <option name="name" value="GP.Offers.FrontPrinter.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontPrinter:GP.Offers.FrontPrinter:D8F37E0C-9534-4327-9519-C66B085582A5" />
+                <option name="name" value="GP.Offers.FrontPrinter.Service.DataAccess" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontPrinter:GP.Offers.FrontPrinter:5C120779-8746-4944-80F3-A47036AF2B24" />
+                <option name="name" value="GP.Offers.FrontPrinter.Service.Test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.FrontPrinter:GP.Offers.FrontPrinter:91097696-A390-4B16-A49A-15FEA54A5B95" />
+                <option name="name" value="GP.Offers.FrontPrinter.SimpleConsumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Gyllenkamme" />
+                <option name="name" value="GP.Offers.Gyllenkamme" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Gyllenkamme:GP.Offers.Gyllenkamme:935C8BE7-2B4C-413A-8F67-2B70B67919E4" />
+                <option name="name" value="Offers.Gyllenkamme" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Gyllenkamme:GP.Offers.Gyllenkamme:05A269B9-5767-4E75-A09D-B6D1BEB0CD11" />
+                <option name="name" value="Offers.Snowflake" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Gyllenkamme:GP.Offers.Gyllenkamme:0A272E47-13B5-4E82-809E-34FF78FF873E" />
+                <option name="name" value="Offers.Snowflake.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Import" />
+                <option name="name" value="GP.Offers.Import" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Import:GrupaPracuj.GP.Offers.Import:3EE874C7-EECD-420A-B926-5ECCC42DFDC4" />
+                <option name="name" value="GP.Offers.Import.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Import:GrupaPracuj.GP.Offers.Import:0DA598F8-EBCF-4EF8-9543-51DBA99C9DDE" />
+                <option name="name" value="GP.Offers.Import.Common" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Import:GrupaPracuj.GP.Offers.Import:DF6BF6A9-2D73-46F0-9A48-35B325A23D34" />
+                <option name="name" value="GP.Offers.Import.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Import:GrupaPracuj.GP.Offers.Import:A40BF591-9997-47C8-9EB8-E3FC484A44C4" />
+                <option name="name" value="GP.Offers.Import.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Import:GrupaPracuj.GP.Offers.Import:CC9F4188-4D2F-47D1-9CE6-F5DD7ED350EF" />
+                <option name="name" value="GP.Offers.Import.WebAdmin" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Layouts" />
+                <option name="name" value="GP.Offers.Layouts" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Layouts:GrupaPracuj.GP.Offers.Layouts:343AC150-8916-43D8-89FC-86BC2CC33ED0" />
+                <option name="name" value="GP.Offers.Layouts.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Layouts:GrupaPracuj.GP.Offers.Layouts:1BD74C50-8695-4F3E-8731-5C1712891780" />
+                <option name="name" value="GP.Offers.Layouts.Application" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Layouts:GrupaPracuj.GP.Offers.Layouts:137E420E-005F-4C90-8344-5FDFBDCE86B5" />
+                <option name="name" value="GP.Offers.Layouts.AzureMigration" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Layouts:GrupaPracuj.GP.Offers.Layouts:D052A3BB-4DD7-4E59-A434-CE0F2F236A50" />
+                <option name="name" value="GP.Offers.Layouts.Client" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Layouts:GrupaPracuj.GP.Offers.Layouts:F0C11366-3485-4B3E-B8E3-BF6BFDDF9D1C" />
+                <option name="name" value="GP.Offers.Layouts.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Layouts:GrupaPracuj.GP.Offers.Layouts:2CCEE1AF-A15F-4867-8D24-065DD2F94412" />
+                <option name="name" value="GP.Offers.Layouts.IntegrationTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Layouts:GrupaPracuj.GP.Offers.Layouts:D7AFD2E0-9C48-496B-BA00-B5D0BB49F773" />
+                <option name="name" value="GP.Offers.Layouts.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GrupaPracuj.GP.Offers.Layouts:GrupaPracuj.GP.Offers.Layouts:EEC0D500-DE5D-495F-B91E-172F85D6280C" />
+                <option name="name" value="GP.Offers.Layouts.TestsFiles" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.LogoPublisher" />
+                <option name="name" value="GP.Offers.LogoPublisher" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.LogoPublisher:GP.Offers.LogoPublisher:36FDC26C-4759-49E6-8EF0-67A9C9196D5B" />
+                <option name="name" value="GP.Offers.LogoPublisher.DataAccess" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.LogoPublisher:GP.Offers.LogoPublisher:2602F85D-7568-4619-B638-FE93B80CF2CF" />
+                <option name="name" value="GP.Offers.LogoPublisher.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.LogoPublisher:GP.Offers.LogoPublisher:47D785C6-F858-458E-A1EA-E828848753DA" />
+                <option name="name" value="GP.Offers.LogoPublisher.Service.Test" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Loki" />
+                <option name="name" value="GP.Offers.Loki" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Loki:GP.Offers.Loki:F7C9FAB7-3594-4338-B73A-9154AC5B544B" />
+                <option name="name" value="GP.Offers.Loki" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Loki:GP.Offers.Loki:5D9F394A-8349-4292-A115-B3C98A933E8C" />
+                <option name="name" value="GP.Offers.Loki.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Loki:GP.Offers.Loki:0D4BBA65-ECB3-489E-A954-5E416A81CC37" />
+                <option name="name" value="GP.Offers.Loki.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Apply" />
+                <option name="name" value="GP.Offers.Publication.Apply" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Apply:GP.Offers.Publication.Apply:64466C02-D653-405A-9DAF-AE930EE868C0" />
+                <option name="name" value="GP.Offers.Publication.Apply" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Apply:GP.Offers.Publication.Apply:E93F3AB5-60DF-41F7-AEEA-6E38D7A75BEA" />
+                <option name="name" value="GP.Offers.Publication.Apply.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Apply:GP.Offers.Publication.Apply:32D9787A-8E70-4862-9D7C-42DFD0AD1B93" />
+                <option name="name" value="GP.Offers.Publication.Apply.Worker" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Pracujpl" />
+                <option name="name" value="GP.Offers.Publication.Pracujpl" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Pracujpl:GP.Offers.Publication.Pracujpl:89B0551A-88A2-402D-94DC-5175A9E8A060" />
+                <option name="name" value="Publication" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Pracujpl:GP.Offers.Publication.Pracujpl:6B7798E4-7577-4B3B-9876-9A6FB223FE0E" />
+                <option name="name" value="Publication.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Pracujpl:GP.Offers.Publication.Pracujpl:E81A0A90-B6CA-4168-A03F-684EBFB2E294" />
+                <option name="name" value="Publication.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Pracujpl.FrontUpdater" />
+                <option name="name" value="GP.Offers.Publication.Pracujpl.FrontUpdater" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Pracujpl.FrontUpdater:GP.Offers.Publication.Pracujpl.FrontUpdater:89B0551A-88A2-402D-94DC-5175A9E8A060" />
+                <option name="name" value="FrontUpdater" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Pracujpl.FrontUpdater:GP.Offers.Publication.Pracujpl.FrontUpdater:59ECA88C-FBB7-4F3F-B067-B81FBB06C590" />
+                <option name="name" value="FrontUpdater.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Pracujpl.FrontUpdater:GP.Offers.Publication.Pracujpl.FrontUpdater:6B7798E4-7577-4B3B-9876-9A6FB223FE0E" />
+                <option name="name" value="FrontUpdater.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Publication.Pracujpl.FrontUpdater:GP.Offers.Publication.Pracujpl.FrontUpdater:E81A0A90-B6CA-4168-A03F-684EBFB2E294" />
+                <option name="name" value="FrontUpdater.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Snotra" />
+                <option name="name" value="GP.Offers.Snotra" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Snotra:GP.Offers.Snotra:66DC8A9E-5A4A-4610-AD4C-4BF59E845C64" />
+                <option name="name" value="GP.Offers.Snotra.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Snotra:GP.Offers.Snotra:EB7E97F6-E3B9-4A59-BC98-E1141EFF3D14" />
+                <option name="name" value="GP.Offers.Snotra.Execution" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Snotra:GP.Offers.Snotra:DFE10957-E308-4106-A359-E5E03F823037" />
+                <option name="name" value="GP.Offers.Snotra.Execution.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Snotra:GP.Offers.Snotra:9395C970-3362-4728-B91F-0E1B86ADEB95" />
+                <option name="name" value="GP.Offers.Snotra.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Statistics" />
+                <option name="name" value="GP.Offers.Statistics" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Statistics:GP.Offers.Statistics:DA910BB9-9290-467E-BDE4-9291642279E8" />
+                <option name="name" value="GP.Offers.Statistics.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Statistics:GP.Offers.Statistics:6611D536-8A94-42E7-B11F-83866D3C7233" />
+                <option name="name" value="GP.Offers.Statistics.Api.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Statistics:GP.Offers.Statistics:F7C89CED-BE06-4473-A993-8A2EA046E04F" />
+                <option name="name" value="GP.Offers.Statistics.Authorization" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Statistics:GP.Offers.Statistics:5DE07727-750D-4C0B-92B9-CDE2AE820A6E" />
+                <option name="name" value="GP.Offers.Statistics.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Statistics:GP.Offers.Statistics:530C90AB-C2F2-4FA4-A190-14AFC0BF5514" />
+                <option name="name" value="GP.Offers.Statistics.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Statistics:GP.Offers.Statistics:1C35D0EF-C1CA-4D3A-A251-FFD5BBE660BD" />
+                <option name="name" value="GP.Offers.Statistics.Logic" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Statistics:GP.Offers.Statistics:C0BABED5-2AF8-4490-81BF-97C2F17680E8" />
+                <option name="name" value="GP.Offers.Statistics.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers.Statistics:GP.Offers.Statistics:8BFC8103-FEE8-40D6-B308-CACD0A72DD9F" />
+                <option name="name" value="GP.Offers.Statistics.Service.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpOffersStatistics_GpOffersStatisticsApi" />
+                <option name="name" value="GP.Offers.Statistics.Api" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpOffersStatistics_GpOffersStatisticsApi:GpOffersStatistics_GpOffersStatisticsApi:5DE07727-750D-4C0B-92B9-CDE2AE820A6E" />
+                <option name="name" value="GP.Offers.Statistics.Consumer.csproj" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpOffersStatistics_GpOffersStatisticsConsumer" />
+                <option name="name" value="GP.Offers.Statistics.Consumer" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpOffersStatistics_GpOffersStatisticsConsumer:GpOffersStatistics_GpOffersStatisticsConsumer:5DE07727-750D-4C0B-92B9-CDE2AE820A6E" />
+                <option name="name" value="GP.Offers.Statistics.Consumer.csproj" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360" />
+                <option name="name" value="GP.Offers360" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360:GP.Offers360:370B1A00-D156-4121-9B8B-2236CAAD6B61" />
+                <option name="name" value="Offers" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360:GP.Offers360:F0E71B7B-F8A2-44BF-A63F-89AE64EC9120" />
+                <option name="name" value="Offers.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360:GP.Offers360:A5280E45-F0AB-4F1C-92BC-9DD01CE4F764" />
+                <option name="name" value="Offers.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360:GP.Offers360:E598CCF9-A354-48C1-83F5-E9A839B60FF7" />
+                <option name="name" value="Offers.Node.Service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360:GP.Offers360:D5FD0830-1A6D-42A1-89E8-2AA6B6FBEBFE" />
+                <option name="name" value="Offers.Performance.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360:GP.Offers360:EDE7408D-6347-4006-BDD3-243C7AE53830" />
+                <option name="name" value="Offers.RecruitmentOfficesMapper" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360:GP.Offers360:69FABE65-F1AD-4C64-A7E7-3BA11922F767" />
+                <option name="name" value="Offers.SerializerMigration" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360:GP.Offers360:DCA154B2-D41A-4009-9EEE-BA4023A97EBB" />
+                <option name="name" value="Offers.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Offers360:GP.Offers360:A89B057D-A5F2-479D-BF9C-9F3A6BD4970E" />
+                <option name="name" value="Offers.Tests.BDD" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio" />
+                <option name="name" value="GP.Ohio" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:9C009254-C45E-44F8-98AC-05993624D724" />
+                <option name="name" value="GP.Ohio" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:2AE29FC9-4772-46D3-AA87-349B5D2D1C5E" />
+                <option name="name" value="GP.Ohio.AnonymizationOrchestrator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:FA96A888-2263-4847-9722-2A90A2764794" />
+                <option name="name" value="GP.Ohio.AnonymizationOrchestrator.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:FBEC5FE0-E8AE-498A-AB25-AC8F5ADA4B90" />
+                <option name="name" value="GP.Ohio.AnonymizationOrchestrator.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:A41C5407-51DB-44C6-82D0-DFF130E7423F" />
+                <option name="name" value="GP.Ohio.Contract" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:BC94B86C-CA6E-4F3E-A9F4-9F09A090B72C" />
+                <option name="name" value="GP.Ohio.DataMigrator" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:4C0B2BD6-A09D-4F20-8A05-3E2F858E48DB" />
+                <option name="name" value="GP.Ohio.Database" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:2E2456A2-7A13-4B60-9C17-A699F823B955" />
+                <option name="name" value="GP.Ohio.DeletedUsersConsumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:0F15E033-5022-427F-8F86-CF7525874D81" />
+                <option name="name" value="GP.Ohio.DeletedUsersConsumer.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ohio:GP.Ohio:DAD269DC-4FFA-415D-A2E6-CD68603436A6" />
+                <option name="name" value="GP.Ohio.RecurringEventPublisher" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ori" />
+                <option name="name" value="GP.Ori" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ori:GP.Ori:E654448C-3F1D-4805-9362-3F7B26966E53" />
+                <option name="name" value="GP.Ori.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Ori:GP.Ori:D7132889-D186-459A-B3AB-B29AE7B91078" />
+                <option name="name" value="GP.Ori.Api.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV" />
+                <option name="name" value="GP.ParserCV" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:0245CC49-966A-4FDE-9241-F829DE275A6A" />
+                <option name="name" value="GP.ParserCV.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:6D7D2C97-D62E-468B-8D84-778BDEE5507C" />
+                <option name="name" value="GP.ParserCV.Api.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:6E28B5E6-CDCD-4642-AFA5-98F2B979DBCF" />
+                <option name="name" value="GP.ParserCV.Contracts" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:628B3E21-1A82-45A8-83A4-89BF3BF3B45A" />
+                <option name="name" value="GP.ParserCV.Core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:2B739BB2-1972-4F7B-A383-361868B0EDC5" />
+                <option name="name" value="GP.ParserCV.Core.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:D914DB7B-BDC7-4E7F-B03B-6549A56DF2D7" />
+                <option name="name" value="GP.ParserCV.DictionariesTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:41E14743-6258-4A4B-8026-3642201E7B1F" />
+                <option name="name" value="GP.ParserCV.IntegrityTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:5EE56881-D4ED-434A-84E2-1DC860FB95BF" />
+                <option name="name" value="GP.ParserCV.Monitoring" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:8E253042-CBAD-4334-BC7F-F602D0CFAEB9" />
+                <option name="name" value="GP.ParserCV.Monitoring.UnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:60DDD5C9-770F-4BAD-8E34-19B97F110B75" />
+                <option name="name" value="GP.ParserCV.PerformanceMetrics" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP_ParserCV:GP_ParserCV:E3D57415-B86F-4ACF-828A-F0DCE04A74E6" />
+                <option name="name" value="GP.ParserCV.ProcessingService" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.PerfectMatch" />
+                <option name="name" value="GP.PerfectMatch" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.PerfectMatch:GP.PerfectMatch:49B8D16C-0E2D-4A07-846E-3E7FC64AD53E" />
+                <option name="name" value="GP.PerfectMatch.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.PerfectMatch:GP.PerfectMatch:340270E3-3FD2-46CB-9AF9-88424F53A6C2" />
+                <option name="name" value="GP.PerfectMatch.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.PerfectMatch:GP.PerfectMatch:181C55AA-1407-4183-894B-D95DC42C7DD2" />
+                <option name="name" value="GP.PerfectMatch.Services" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.PerfectMatch:GP.PerfectMatch:F5304727-7353-4517-ABEC-6A8E4A486E9A" />
+                <option name="name" value="GP.PerfectMatch.Statistics.Consumer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.PerfectMatch:GP.PerfectMatch:4778577B-9B4F-42E1-8C9F-DC81CEF7E9AD" />
+                <option name="name" value="GP.PerfectMatch.Statistics.DB" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.PerfectMatch:GP.PerfectMatch:70D03E90-F1BA-4379-9F00-7E3A61E87E3E" />
+                <option name="name" value="GP.PerfectMatch.Tests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Pippin" />
+                <option name="name" value="GP.Pippin" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Pippin:GP.Pippin:4D137B99-46B2-4F5C-85EE-0D36A3FB497C" />
+                <option name="name" value="GP.Pippin" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Pippin:GP.Pippin:7E57F7C8-27AC-49BD-B842-0C5D6F8258D2" />
+                <option name="name" value="GP.Pippin.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Pippin:GP.Pippin:95320A80-BA96-407C-891B-B4930848305F" />
+                <option name="name" value="GP.Pippin.NetCoreUnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Pippin:GP.Pippin:49CFF6B7-17AA-4BAE-A09B-CDD699F0D595" />
+                <option name="name" value="GP.Pippin.NetUnitTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Pippin:GP.Pippin:C45C69CD-706F-4898-801A-F697790715B0" />
+                <option name="name" value="GP.Pippin.NotesCleaner" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.Pippin:GP.Pippin:392EBA76-C8D5-40CE-BC18-3B8B6BF892E4" />
+                <option name="name" value="GP.Pippin.SmokeTests" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpPozycjonujacyPrzemek_GpPozycjonujacyPrzemekApi" />
+                <option name="name" value="GP.PozycjonujacyPrzemek.Api" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GpPozycjonujacyPrzemek_GpPozycjonujacyPrzemekApi:GpPozycjonujacyPrzemek_GpPozycjonujacyPrzemekApi:6A372A6A-6E17-4A2A-A950-879F0DEB9C88" />
+                <option name="name" value="GP.PozycjonujacyPrzemek.Api" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.eCommerce.Gateway" />
+                <option name="name" value="GP.eCommerce.Gateway" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="GP.eCommerce.Gateway:GP.eCommerce.Gateway:C53C8D90-A03B-4E8E-AAEA-9D3704A816C3" />
+                <option name="name" value="GP.eCommerce.Gateway" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="pl.pracuj:bigdata-stream-to-storage" />
+                <option name="name" value="bigdata-stream-to-storage" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="pl.pracuj:bigdata-tracker-sessionmanager" />
+                <option name="name" value="bigdata-tracker-sessionmanager" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
