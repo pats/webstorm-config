@@ -5,8 +5,9 @@
       <mapping pattern="server,js" type="JavaScript" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="properties̀" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="nuspec" type="XML" />
     </extensionMap>
   </component>
