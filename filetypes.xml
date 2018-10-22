@@ -5,6 +5,7 @@
       <mapping pattern="server,js" type="JavaScript" />
       <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="properties̀" type="PLAIN_TEXT" />
