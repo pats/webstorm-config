@@ -8,6 +8,7 @@
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="properties̀" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
