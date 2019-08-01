@@ -6,6 +6,7 @@
       <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile__relax-account-recommendations" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
