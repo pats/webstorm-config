@@ -5,19 +5,18 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="cshtml" type="HTML" />
       <mapping pattern="server,js" type="JavaScript" />
-      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile__relax-account-recommendations" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping ext="2019-10-24" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="properties̀" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="2019-10-24" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="nuspec" type="XML" />
     </extensionMap>
   </component>
