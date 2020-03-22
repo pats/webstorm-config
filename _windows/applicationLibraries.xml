@@ -1,11 +1,15 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/material-ui" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/react" type="javaScript">
-      <CLASSES />
+    <library name="Node.js Core Modules" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Node.js Core Modules" />
+        <sourceFilesUrls>
+          <item url="file://C:/Program Files/nodejs" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Program Files/nodejs" />
+      </CLASSES>
       <SOURCES />
     </library>
   </component>
