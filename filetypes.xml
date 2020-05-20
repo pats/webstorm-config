@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="cshtml" type="HTML" />
+      <mapping pattern=".lintstagedrc" type="JSON" />
       <mapping pattern="server,js" type="JavaScript" />
       <mapping pattern="Dockerfile_build-container" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile__relax-account-recommendations" type="PLAIN_TEXT" />
