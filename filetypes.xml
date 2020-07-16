@@ -13,6 +13,7 @@
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
+      <mapping pattern="README.md" type="PLAIN_TEXT" />
       <mapping ext="properties̀" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="2019-10-24" type="PLAIN_TEXT" />
